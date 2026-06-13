@@ -20,17 +20,23 @@ Built a real-time face recognition pipeline end-to-end: image preprocessing, fac
 
 ## Projects
 
-**Face Recognition Attendance System**
-Real-time face detection and recognition using OpenCV with automated attendance logging and an admin dashboard for filtering records and exporting reports.
+**[Face Recognition Attendance System](https://github.com/abi2707/face-recognition-attendance)**
+DeepFace (ArcFace) pipeline with SQLite storage. Registers people with 3 reference images, matches new faces via cosine similarity on 512-dim embeddings. Built in Colab with an interactive upload flow.
+
+**[Nexur.AI](https://github.com/abi2707/nexur-ai) — Emotion-Aware Storytelling** *(HACKTRIX 2.0, Top 10 Finalist)*
+Streamlit app that captures your facial emotion via webcam (Hume AI), folds it into a GPT-3.5 prompt, generates scene illustrations with DALL-E 2, and reads the story aloud with TTS-1.
+
+**[RAG + Episodic Memory for Dialogue](https://github.com/abi2707/rag-episodic-memory)**
+Benchmarked 6 retrieval strategies (BM25, Dense, Hybrid, Cross-Encoder, Memory-Augmented) on 74k utterances from DailyDialog + PersonaChat. Memory-augmented approach uses Ebbinghaus forgetting curves to filter low-retention context before re-ranking.
+
+**[DriftGuard](https://github.com/abi2707/driftguard) — Concept Drift Detection for IoT**
+Adaptive anomaly detection for agricultural sensor streams. Compares static vs. drift-aware models (ADWIN, Page-Hinkley) across 7 simulated seasons with 6% anomaly rate. Includes a Streamlit dashboard and auto-generated PDF report.
+
+**[Unused Medicine Donation System](https://github.com/abi2707/unused-medicine-donation)**
+Full-stack Flask app with role-based auth for donors, buyers, and admins. Animated UI, SQLite-backed order management for medicine listings and purchases.
 
 **AI Skincare Recommendation System**
-CNN-based skin type classifier trained on 500+ RGB images with augmentation and normalization. Hit 95% classification accuracy. Outputs personalized skincare routine recommendations based on the prediction.
-
-**[Nexur.AI](https://github.com/abi2707) — NLP Storytelling System**
-Generative storytelling system using NLP — tokenization, language modeling, and interactive user inputs for adaptive story progression. Focused on coherence and real-time customization.
-
-**Unused Medicine Donation System**
-Full-stack web app (HTML/CSS/JS) with role-based authentication, animated UI components, and a relational database schema for managing users, donations, and purchases.
+CNN classifier trained on 500+ RGB images (augmentation, normalization, feature scaling). 95% classification accuracy on skin type. Outputs personalized skincare routine recommendations.
 
 ---
 
