@@ -45,6 +45,8 @@ CNN classifier trained on 500+ RGB images (augmentation, normalization, feature 
 **Physics-Informed Neural Networks for Glucose-Insulin Dynamics** *(with Dr. M. Thilaga)*
 Integrating glucose-insulin ODEs directly into the neural network loss function using automatic differentiation. Validated against a 4th-order Runge-Kutta solver over a 240-minute postprandial simulation — achieved **0.0079% mean relative error**. The goal is a model that's both physiologically grounded and computationally efficient for clinical use.
 
+*Paper under preparation. Code available on request.*
+
 ---
 
 ## Skills
