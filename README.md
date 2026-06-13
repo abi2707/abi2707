@@ -1,209 +1,71 @@
-<div align="center">
+# Abinaya Sivakumar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinaya%20Sivakumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=62&descSize=18" width="100%"/>
+Integrated MSc Data Science student at Amrita Vishwa Vidyapeetham (2022–2027), focused on computer vision, deep learning, and applied AI. I work across the full stack — from training CNNs on image datasets to building web interfaces around them.
 
-<br/>
+Currently doing research on Physics-Informed Neural Networks with Dr. M. Thilaga, and always looking for problems where AI can do something genuinely useful.
 
-**Building intelligent systems at the intersection of AI, Computer Vision & Real-World Impact**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinaya-sivakumar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abi2707)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinaya.s@funbook.org.in)
-
-</div>
+📍 Coimbatore, India &nbsp;|&nbsp; 📧 abinayasivakumar004@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/abinaya-sivakumar-28749a2b8)
 
 ---
 
-## 🧠 About Me
+## Work & Internships
 
-```python
-class AbinayaSivakumar:
-    def __init__(self):
-        self.name       = "Abinaya Sivakumar"
-        self.degree     = "Integrated MSc Data Science"
-        self.university = "Amrita Vishwa Vidyapeetham"
-        self.focus      = ["Computer Vision", "Deep Learning", "NLP", "AI Research"]
-        self.currently  = "Building AI systems that solve real problems"
-        self.fun_fact   = "I train models the way athletes train — relentlessly 🏋️"
+**Summer Intern — Shanthi Gears Limited** *(May–June 2025)*
+Built an automated image inspection system using OpenCV for defect detection and quality verification. Worked on grayscale conversion, edge detection, noise filtering, and pixel-wise comparison. Also developed pattern matching and template recognition pipelines validated on real-world industrial datasets.
 
-    def say_hi(self):
-        print("Let's build something that matters with AI.")
-```
+**Project Intern — Resilience Business Grids LLP** *(Nov 2024–Apr 2025)*
+Built a real-time face recognition pipeline end-to-end: image preprocessing, face encoding, feature extraction, dataset annotation, and attendance logging. Used NumPy and Pandas to clean and structure the training data.
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-<div align="center">
+**Face Recognition Attendance System**
+Real-time face detection and recognition using OpenCV with automated attendance logging and an admin dashboard for filtering records and exporting reports.
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**AI Skincare Recommendation System**
+CNN-based skin type classifier trained on 500+ RGB images with augmentation and normalization. Hit 95% classification accuracy. Outputs personalized skincare routine recommendations based on the prediction.
 
-### AI / ML / CV
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**[Nexur.AI](https://github.com/abi2707) — NLP Storytelling System**
+Generative storytelling system using NLP — tokenization, language modeling, and interactive user inputs for adaptive story progression. Focused on coherence and real-time customization.
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</div>
+**Unused Medicine Donation System**
+Full-stack web app (HTML/CSS/JS) with role-based authentication, animated UI components, and a relational database schema for managing users, donations, and purchases.
 
 ---
 
-## 🚀 Featured Projects
+## Ongoing Research
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Face Recognition Attendance System
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/abi2707)
-[![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-FF6F00?style=flat-square)](https://github.com/abi2707)
-
-Real-time face detection and recognition pipeline built with OpenCV and deep CNNs. Automates attendance marking with live video feed, reducing manual effort by **100%**.
-
-- ✅ Real-time detection & recognition
-- ✅ Automated log generation
-- ✅ Handles multiple faces simultaneously
-
-</td>
-<td width="50%" valign="top">
-
-### 💄 AI Skincare Recommender
-[![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=flat-square)](https://github.com/abi2707)
-[![NLP](https://img.shields.io/badge/NLP-Powered-blue?style=flat-square)](https://github.com/abi2707)
-
-Personalized skincare recommendation engine achieving **95% accuracy** using CNN-based skin tone/type classification and NLP-driven product matching.
-
-- 🎯 95% classification accuracy
-- 💡 Personalized product suggestions
-- 🔬 Multi-modal input (image + text)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 PINN Glucose-Insulin Research
-[![Physics](https://img.shields.io/badge/Physics--Informed-Neural%20Net-purple?style=flat-square)](https://github.com/abi2707)
-[![Research](https://img.shields.io/badge/Research-Academic-orange?style=flat-square)](https://github.com/abi2707)
-
-Physics-Informed Neural Network (PINN) for modeling glucose-insulin dynamics. Integrates domain-specific differential equations into the neural architecture for physiologically accurate predictions.
-
-- 🧬 ODE-constrained deep learning
-- 📊 Physiologically grounded modeling
-- 🔬 Research-grade accuracy
-
-</td>
-<td width="50%" valign="top">
-
-### 📖 NLP Storytelling System
-[![NLP](https://img.shields.io/badge/NLP-Transformers-blue?style=flat-square)](https://github.com/abi2707)
-[![Creative](https://img.shields.io/badge/Creative-AI-ff69b4?style=flat-square)](https://github.com/abi2707)
-
-AI-powered narrative generation system that crafts coherent, contextually rich stories using transformer-based NLP models. Supports genre-specific and prompt-guided generation.
-
-- ✍️ Coherent long-form generation
-- 🎭 Multi-genre support
-- 🧠 Context-aware storytelling
-
-</td>
-</tr>
-</table>
+**Physics-Informed Neural Networks for Glucose-Insulin Dynamics** *(with Dr. M. Thilaga)*
+Integrating glucose-insulin ODEs directly into the neural network loss function using automatic differentiation. Validated against a 4th-order Runge-Kutta solver over a 240-minute postprandial simulation — achieved **0.0079% mean relative error**. The goal is a model that's both physiologically grounded and computationally efficient for clinical use.
 
 ---
 
-## 💼 Experience
+## Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Shanthi Gears Limited
-**Intern**
-
-Applied data analytics and AI tooling in an industrial manufacturing context. Gained hands-on experience with production data pipelines and process optimization.
-
-`Data Analysis` · `Process Optimization` · `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Resilience Business Grids LLP
-**Intern**
-
-Worked on AI/ML solutions for business intelligence. Contributed to data-driven decision systems in a dynamic startup environment.
-
-`Machine Learning` · `Business Intelligence` · `SQL`
-
-</td>
-</tr>
-</table>
+**Languages:** Python (NumPy, Pandas, OpenCV), SQL, HTML, CSS, JavaScript  
+**ML / CV:** CNNs, Face Recognition, Image Processing, NLP, AI-based Recommendations  
+**Deep Learning:** Convolutional Neural Networks, Facial Analysis, PINNs  
+**Databases:** PL/SQL, Object/Graph Databases  
+**Visualization:** Tableau, Matplotlib, Seaborn  
+**Tools:** Jupyter Notebook, Google Colab, Git  
 
 ---
 
-## 📊 GitHub Stats
+## Competitions & Activities
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abi2707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi2707&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abi2707&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abi2707&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=7E3ACE&point=BE90F2)
-
-</div>
+- Top 10 Finalist — **HACKTRIX 2.0**, Sri Krishna College of Technology (Mar 2024)
+- Finalist — **HCI Global Healthcare Ideathon 2024**, HCI Australia
+- Top 50 internally — qualified to apply for **Smart India Hackathon 2025**
+- Volunteered at Anokha Tech Fest; active NSS member
+- Represented Coimbatore throwball team at state-level tournaments
+- MC for Amrita Admissions events; showcased paintings at All Indian Art Association exhibition
 
 ---
 
-## 🏆 Trophies
+## GitHub Stats
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abi2707&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&bg_color=0D1117)
-
-</div>
-
----
-
-## 📈 Currently Learning
-
-```
-🔭  Exploring      →  Vision Transformers (ViT) & CLIP
-🌱  Deepening      →  Reinforcement Learning for control systems
-🔬  Researching    →  Medical AI & computational biology
-🛠️  Building       →  End-to-end MLOps pipelines
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"The best way to predict the future is to build it — with AI."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=abi2707&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abi2707&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abi2707&layout=compact&theme=default&hide_border=true" />
+</p>
